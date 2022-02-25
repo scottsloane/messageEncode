@@ -1,0 +1,11 @@
+{
+  "name": "messageencode",
+  "version": "1.0.0",
+  "description": "Hide secret messages in plain sight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Sloane (scott@scottsloane.com)",
+  "license": "ISC"
+}
